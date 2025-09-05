@@ -71,7 +71,7 @@ Several techniques were used to remove outliers and improve data quality:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/NishchayJindal/House_price_prediction.git
     ```
 2.  **Install the required libraries.** It is recommended to create a virtual environment first.
     ```bash
